@@ -6,8 +6,9 @@
 Complete the basic algorithm scripting section here:
 https://www.freecodecamp.com/map
 ## Specifications
-- Complete around 70% of the section material
-- Show code with exlanation commentary and discuss 
+- Complete around 75% of the section material
+- Show code with explanation commentary
+- Discuss why and how we wrote the code in the way we did
 
 ### Required
 
