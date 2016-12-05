@@ -10,6 +10,11 @@ https://www.freecodecamp.com/map
 - Show code with explanation commentary
 - Discuss why and how we wrote the code in the way we did
 
+
+### Stretch Goals
+- Complete 100% of section material
+- Learn to push and pull files to and from Github
+
 ### Required
 
 _Do not remove these specs - they are required for all goals_.
