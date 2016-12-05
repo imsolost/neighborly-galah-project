@@ -14,6 +14,7 @@ https://www.freecodecamp.com/map
 ### Stretch Goals
 - Complete 100% of section material
 - Learn to push and pull files to and from Github
+- Begin work on Intermediate Algorithm Scripting
 
 ### Required
 
